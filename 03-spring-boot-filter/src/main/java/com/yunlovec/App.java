@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 
 /**
- * SpringBoot整合filter方式一
+ * SpringBoot 整合Filter方式一
  *
  */
 @SpringBootApplication
